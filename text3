@@ -1,0 +1,5 @@
+# Solicită utilizatorului să introducă un nume
+nume = input("Cum te numești? ")
+
+# Afișează mesajul de salut
+print("Salut, " + nume + "! Bine ai venit în lumea Python.")
