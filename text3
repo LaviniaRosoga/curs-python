@@ -6,5 +6,5 @@ nume = input("Cum te numești? ")
 print("salutare! mult succes la proiect!")
 print("codul asta merge perfect")
 print("sunt varza")
-
+print("nu stiu daca iau nota de trecere")
 
