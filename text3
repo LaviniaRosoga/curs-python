@@ -1,11 +1,2 @@
-# Solicită utilizatorului să introducă un nume
-nume = input("Cum te numești? ")
-
-# Afișează mesajul de salut
-#print("Salut, " + nume + "! Bine ai venit în lumea Python.")
-print("salutare! mult succes la proiect!")
-print("codul asta merge perfect")
-print("sunt varza")
-print("nu stiu daca iau nota de trecere")
-print("mai e putin pana luni")
-
+import pandas as pd
+print("Pandas funcționează perfect!")
