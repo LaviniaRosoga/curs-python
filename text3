@@ -2,4 +2,6 @@
 nume = input("Cum te numești? ")
 
 # Afișează mesajul de salut
-print("Salut, " + nume + "! Bine ai venit în lumea Python.")
+#print("Salut, " + nume + "! Bine ai venit în lumea Python.")
+print("salutare! mult succes la proiect!")
+
