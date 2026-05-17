@@ -24,7 +24,9 @@ Proiect final realizat în Python utilizând framework-ul Flask și ORM-ul SQLAl
    ```bash
    python app.py
    ```
+<<<<<<< HEAD
 4. Deschide în browser adresa: `http://127.0.0.1:8080`
+=======
 
 ## 📊 Funcționalități implementate (Conform Barem)
 * **CRUD Complet**: Adăugare, Vizualizare, Modificare preț rapidă, Ștergere produs (2p).
