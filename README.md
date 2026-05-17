@@ -15,4 +15,4 @@ Instalează dependențele necesare:
 pip install -r requirements.txt
 Pornește aplicația locală:
 python app.py
-Deschide în browser adresa: http://127.0.0
+Deschide în browser adresa: http://127.0.0.1:8080
