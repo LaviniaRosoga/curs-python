@@ -1,0 +1,15 @@
+=== RAPORT INVENTAR / VALOARE STOC ===
+
+Total modele unice in baza de date: 7
+Total perechi de incaltaminte fizice: 63 buc.
+Valoarea totala estimata a stocului: 27925.00 RON
+--------------------------------------------------
+ID   | Brand        | Model           | Marime | Pret       | Stoc  
+--------------------------------------------------
+1    | Nike         | Air Max         | 42     | 550.00     | 10    
+2    | Adidas       | UltraBoost      | 44     | 749.00     | 5     
+3    | Reebok       | Classic Leather | 42     | 350.00     | 0     
+4    | Adidas       | Superstar       | 41     | 400.00     | 8     
+5    | Fila         | Disruptor 2     | 40     | 399.00     | 20    
+6    | Nike         | AirMax          | 38     | 350.00     | 15    
+7    | Fila         | Teratach 600    | 38     | 450.00     | 5     
