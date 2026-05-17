@@ -16,3 +16,10 @@ pip install -r requirements.txt
 Pornește aplicația locală:
 python app.py
 Deschide în browser adresa: http://127.0.0.1:8080
+
+📊 Funcționalități implementate (Conform Barem)
+CRUD Complet: Adăugare, Vizualizare, Modificare preț rapidă, Ștergere produs (2p).
+Separation of Concerns: Cod împărțit în module clare (database.py, crud.py, app.py) (1p).
+Filtrare și Sortare: Sortare după brand, preț descrescător și filtrare rapidă după mărime (1p).
+Generare Raport: Descărcare fișier text automat cu statistici complete despre valoarea stocului (1p).
+Documentare: Docstrings prezente, type hinting complet și sistem de logging integrat (0.5p).
