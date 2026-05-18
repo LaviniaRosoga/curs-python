@@ -1,8 +1,8 @@
 === RAPORT INVENTAR / VALOARE STOC ===
 
-Total modele unice in baza de date: 7
-Total perechi de incaltaminte fizice: 63 buc.
-Valoarea totala estimata a stocului: 27925.00 RON
+Total modele unice in baza de date: 12
+Total perechi de incaltaminte fizice: 123 buc.
+Valoarea totala estimata a stocului: 54630.00 RON
 --------------------------------------------------
 ID   | Brand        | Model           | Marime | Pret       | Stoc  
 --------------------------------------------------
@@ -13,3 +13,8 @@ ID   | Brand        | Model           | Marime | Pret       | Stoc
 5    | Fila         | Disruptor 2     | 40     | 399.00     | 20    
 6    | Nike         | AirMax          | 38     | 350.00     | 15    
 7    | Fila         | Teratach 600    | 38     | 450.00     | 5     
+8    | Nike         | Zoom Vomero 5   | 38     | 599.00     | 25    
+9    | Adidas       | Superstar       | 43     | 399.00     | 10    
+10   | Fila         | Distruptor 2    | 43     | 399.00     | 10    
+11   | Fila         | Memory Decimus  | 44     | 350.00     | 0     
+12   | Puma         | Cali            | 36     | 250.00     | 15    
